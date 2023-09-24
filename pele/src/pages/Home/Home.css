@@ -1,0 +1,15 @@
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+article img {
+    float: right;
+    margin: 5px;
+    margin-top: -20px;
+    animation: spin 5s linear infinite;
+}

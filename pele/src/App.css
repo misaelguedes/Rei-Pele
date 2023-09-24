@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi&display=swap');
+
+:root {
+    --cor1: #EBF80C;
+    --cor2: #EBD80C;
+    --cor3: #F0C400;
+    --cor4: #D99E0B;
+    --cor5: #F89E0C;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./images/background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+article {
+    background-color: rgba(255, 255, 255, 0.877);
+    min-width: 300px;
+    max-width: 940px;
+    margin: auto;
+    margin-top: 4px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    color: black;
+    font-family: 'Tiro Devanagari Hindi', serif;
+    font-size: 1.7em;
+    font-weight: bold;
+    padding: 15px;
+    text-indent: 20px;
+}
+
+h2 {
+    background-image: linear-gradient(to right, var(--cor3), transparent);
+    font-family: 'Tiro Devanagari Hindi', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-indent: 20px;
+    padding: 1px;
+}
+
+h3 {
+    font-family: 'Tiro Devanagari Hindi', serif;
+    font-size: 1.3em;
+    font-weight: bold;
+    text-indent: 20px;
+    margin: 15px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 1.5em;
+    margin: 0px 20px;
+}
+
+hr {
+    height: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: black;
+    background-image: linear-gradient(to right, var(--cor3), var(--cor5));
+    margin-top: 4px;
+    padding: 5px;
+    box-shadow: 0px 7px 7px 7px rgba(0, 0, 0, 0.39);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer p {
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.226);
+}
+
+footer a {
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+footer a:hover {
+    background-color: black;
+    color: var(--cor4);
+    border-radius: 10px;
+    padding: 3px;
+    text-shadow: none;
+    cursor: pointer;
+    transition: 0.5s;
+}

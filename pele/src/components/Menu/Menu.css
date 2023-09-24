@@ -1,0 +1,24 @@
+menu {
+    background-image: linear-gradient(to right, var(--cor3), var(--cor5));
+    padding: 15px;
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.288);
+}
+
+menu a {
+    color: black;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.274);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+menu a:hover {
+    color: var(--cor3);
+    background-color: black;
+    border-radius: 10px;
+    text-shadow: none;
+    transition-duration: 0.5s;
+}
