@@ -10,7 +10,7 @@
 .imgHome {
     max-width: 250px;
     float: right;
-    margin: 5px;
+    margin: 0 5px;
     animation: spin 5s linear infinite;
 }
 

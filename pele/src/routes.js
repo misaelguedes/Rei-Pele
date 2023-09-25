@@ -5,6 +5,7 @@ import História from "./pages/História"
 import Títulos from "./pages/Títulos"
 import Estatísticas from "./pages/Estatísticas"
 import Vídeos from "./pages/Vídeos"
+import Erro from "./pages/Erro"
 import Header from './components/Header'
 import Menu from "./components/Menu"
 import Footer from "./components/Footer"
@@ -20,6 +21,8 @@ export default function RoutesApp() {
                 <Route path="/titulos" element={<Títulos/>}/>
                 <Route path="/estatisticas" element={<Estatísticas/>}/>
                 <Route path="/videos" element={<Vídeos/>}/>
+
+                <Route path="*" element={<Erro/>}/>
             </Routes>
         <Footer/>
         </BrowserRouter>
