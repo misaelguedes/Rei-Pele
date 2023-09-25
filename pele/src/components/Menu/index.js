@@ -26,7 +26,9 @@ export default function Menu() {
     }
 
     function hideMenu() {
-        setItensVisible(false)
+        if (window.innerWidth <= 646) {
+            setItensVisible(false)
+        }
     }
 
     return (
