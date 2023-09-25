@@ -22,3 +22,35 @@ menu a:hover {
     text-shadow: none;
     transition-duration: 0.5s;
 }
+
+span#burguer {
+    display: none;
+}
+
+@media screen and (max-width: 646px) {
+    menu {
+        display: none;
+    }
+
+    menu a {
+        display: block;
+        text-align: center;
+        font-size: 1.2em;
+        border-top: 1px solid black;
+    }
+    
+    menu > a:hover {
+        color: grey;
+        background: none;
+    }
+    
+    span#burguer {
+        display: block;
+        background-image: linear-gradient(to right, var(--cor3), var(--cor5));
+        display: block;
+        text-align: center;
+        padding: 10px;
+        text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.418);
+        cursor: pointer;
+    }
+}

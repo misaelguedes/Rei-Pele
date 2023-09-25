@@ -30,3 +30,13 @@ td, th {
 #tabela {
     overflow: auto;
 }
+
+@media screen and (max-width: 646px) {
+    table {
+        max-width: 200px;
+    }
+    
+    table.tb2 {
+        max-width: 325px;
+    }
+}

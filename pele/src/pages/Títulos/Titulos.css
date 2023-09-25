@@ -1,3 +1,9 @@
 .titulosmenu {
     text-align: center;
 }
+
+@media screen and (max-width: 646px) {
+    ul {
+        padding-left: 20px;
+    }
+}
