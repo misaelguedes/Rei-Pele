@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+<p>
+    <img src="src/images/pele-eterno.jpg" alt="Prévia do Site"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🖥️ Projeto
+Este site foi cuidadosamente projetado e desenvolvido para fornecer aos fãs uma plataforma abrangente que aborda a vida extraordinária e a carreira notável de Pelé. Aqui você encontrará uma riqueza de informações sobre o maior jogador de futebol de todos os tempos.
 
-## Available Scripts
+## 📄 Conteúdo
+O site apresenta uma variedade de seções ricas em detalhes, com o objetivo de levar os fãs em uma jornada completa pela história do Pelé. As seções principais incluem:
 
-In the project directory, you can run:
+### História
+Explore a emocionante história de vida de Pelé, desde sua infância humilde até se tornar um ícone global do esporte. Conheça os desafios que ele enfrentou, as conquistas marcantes e os momentos que moldaram sua trajetória única.
 
-### `npm start`
+### Títulos
+Descubra os inúmeros títulos e troféus conquistados por Pelé ao longo de sua carreira. Desde campeonatos nacionais até competições internacionais, você encontrará uma lista abrangente de todas as suas vitórias gloriosas.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Estatísticas
+Delicie-se com uma ampla gama de estatísticas e registros impressionantes estabelecidos por Pelé. Saiba mais sobre seus recordes individuais, gols marcados, assistências e outros feitos incríveis que o destacam como um verdadeiro mestre do futebol.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Vídeos
+Aprecie uma seleção cuidadosamente curada de vídeos que capturam momentos memoráveis ​​de Pelé em campo. Desde gols espetaculares até jogadas habilidosas, esses vídeos oferecem uma visão emocionante das habilidades lendárias de Pelé.
 
-### `npm test`
+## Agradecimentos
+Gostaríamos de expressar nossa gratidão a todos os fãs de Pelé que nos inspiraram a criar este site. Também queremos agradecer a Pelé por sua contribuição inestimável para o mundo do futebol e por todo o entretenimento e inspiração que ele trouxe aos fãs ao longo dos anos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Esperamos que você aproveite sua visita ao site do Pelé e desfrute da jornada emocionante pela vida e conquistas do maior jogador de futebol de todos os tempos!
 
-### `npm run build`
+#### Viva Pelé, o Rei do Futebol!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Tecnologias Utilizadas
+Este site foi desenvolvido utilizando as seguintes tecnologias:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- ReactJS: https://react.dev/learn
+- React Router Dom: https://reactrouter.com/en/main
