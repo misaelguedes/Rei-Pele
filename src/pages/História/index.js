@@ -40,6 +40,7 @@ import PeleInternado from '../../images/peleinternado.jpg'
 import VelorioPele from '../../images/pelemorto.jpg'
 import MuseuPele from '../../images/museupele.jpeg'
 import PeleMaradona from '../../images/peleemaradona.jpg'
+import PeleMoore from '../../images/pele-bobby-moore.png'
 
 export default function História() {
     return (
@@ -209,6 +210,7 @@ export default function História() {
             <p>Pelé também é conhecido por conectar a frase "jogo bonito" com o futebol. Um artilheiro prolífico, ele era conhecido por sua capacidade de antecipar adversários na área e acabar com chances com um tiro preciso e poderoso com o pé. Pelé também era um jogador de muito treinamento e um atacante completo, com visão e inteligência excepcionais, reconhecido por seu passe preciso e capacidade de se unir aos colegas de equipe e dar assistência.</p>
             <p>Em seu início de carreira, ele jogou em uma variedade de posições de ataque. Embora ele geralmente trabalhasse dentro da grande área como um segundo atacante ou centroavante, sua ampla gama de habilidades também lhe permitia jogar em um papel mais retraído, como atacante interno ou segundo atacante, ou fora de campo. Em sua carreira posterior, ele assumiu um papel mais profundo como playmaker atrás dos atacantes, muitas vezes atuando como meia-atacante. O estilo de jogo único de Pelé combinava velocidade, criatividade e habilidade técnica com força física, resistência e capacidade atlética. Sua excelente técnica, equilíbrio, talento, agilidade e habilidades de drible permitiram que ele vencesse adversários com a bola, e frequentemente o via usando mudanças súbitas de direção e fintas elaboradas para passar por jogadores, como seu movimento de marca registrada, o "drible da vaca". Outro de seus movimentos de assinatura foi a "paradinha".</p>
             <p>Apesar de sua estatura relativamente pequena (1,73 m) ele se destacou no ar, devido à sua precisão de rumo, tempo e altitude. Reconhecido por seus chutes, ele também foi um cobrador de faltas e pênalti, embora muitas vezes ele se abstivesse de bater pênaltis, afirmando acreditar ser uma maneira covarde de marcar.</p>
+            <img className='img' src={PeleMoore} alt='Pelé e Bobby Moore'/>
             <p>Pelé também era conhecido por ser um jogador justo e altamente influente, que se destacou por sua liderança carismática e esportividade em campo. Seu caloroso abraço com Bobby Moore após o jogo contra a Inglaterra na Copa do Mundo de 1970 é visto como a personificação do espírito esportivo, com o The New York Times afirmando a imagem "Capturou o respeito que dois grandes jogadores tiveram um pelo outro. Como eles trocaram camisas, toques e olhares, o espírito esportivo entre eles é tudo na imagem. Nada de regozijo, nenhum bombardeio de Pelé. Nenhum desespero, nenhum derrotismo de Bobby Moore". Segundo seu companheiro de seleção Rivellino, "era impressionante a energia positiva [de Pelé]". Pelé também ganhou a reputação de ser um jogador decisivo para suas equipes, devido a sua tendência de marcar gols cruciais em partidas importantes.</p>
             <hr/>
             <h2>Vida Pessoal</h2>
